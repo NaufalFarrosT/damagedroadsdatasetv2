@@ -1,0 +1,9 @@
+# train and val data
+train: ../damagedroadsdataset/images/train/
+val: ../damagedroadsdataset/images/val/
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Longitudinal Cracks','Transverse Cracks','Alligator Cracks','Potholes']
